@@ -1,0 +1,29 @@
+.card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    margin-top: 10px;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .pagination-item.active .pagination-link {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+  }
+  
+  .pagination-link {
+    color: #007bff;
+  }
+  
+  .pagination-link:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
